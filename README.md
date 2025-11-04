@@ -49,17 +49,6 @@ xkcd-chatgpt-app/
 └── requirements.txt           # Dependencies
 ```
 
-## Development
-
-Add new widgets using the scaffold CLI:
-```bash
-create-chatgpt-app add-widget --identifier my-widget --title "My Widget"
-```
-
-API documentation available at:
-- OpenAPI: `http://localhost:8000/docs`
-- ReDoc: `http://localhost:8000/redoc`
-
 ## License
 
 MIT
